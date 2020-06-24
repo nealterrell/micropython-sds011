@@ -4,7 +4,7 @@ This is my mediocre attempt at running an SDS011 air quality sensor (PM2.5 and P
 
 ## Wiring diagram
 
-
+![](https://raw.githubusercontent.com/nealterrell/micropython-sds011/master/air-sensor_bb.png)
 
 ## Photo
 
