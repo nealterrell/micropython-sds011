@@ -1,0 +1,3 @@
+import sensor
+
+sensor.run()
